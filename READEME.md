@@ -20,9 +20,7 @@ There you go!
 
 # Built With 
 <li>HTML</li>
-
 <li>CSS3</li>
-
 <li>Vanilla JavaScript</li>
 
 # Contributors
